@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upg1", "upg1\upg1.csproj", "{C952BB8D-9F4C-43B5-BEAA-3079F9176B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upg1_b", "upg1_b\upg1_b.csproj", "{82077340-D345-451B-A16D-7F303CCF2DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C952BB8D-9F4C-43B5-BEAA-3079F9176B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C952BB8D-9F4C-43B5-BEAA-3079F9176B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C952BB8D-9F4C-43B5-BEAA-3079F9176B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C952BB8D-9F4C-43B5-BEAA-3079F9176B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82077340-D345-451B-A16D-7F303CCF2DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82077340-D345-451B-A16D-7F303CCF2DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82077340-D345-451B-A16D-7F303CCF2DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82077340-D345-451B-A16D-7F303CCF2DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
